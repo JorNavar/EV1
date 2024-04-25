@@ -1,0 +1,41 @@
+#cabecera{
+    text-align: right;
+    color: white;
+    background-color: black;
+}
+
+nav li{
+    display: inline-block;
+    width: 10%;
+    padding: 5px 10px;
+    border-radius: 8px;
+    text-align: left;
+}
+
+#Autoprincipal{
+    text-align: center;
+    background-color: red;
+}
+
+#Autos{
+    background-color: black;
+    display: inline-block;
+    padding: 10px 10px;
+    text-align: left;
+}
+
+footer{
+    background-color: grey;
+    text-align: center;
+}
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    margin-left: 10px;
+    }
+    
